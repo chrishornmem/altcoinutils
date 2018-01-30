@@ -1,0 +1,11 @@
+python genesis.py -a scrypt -z "BBC 08/JAN/2018 Apple investors urge action on smartphone addiction" -p "4f9014e837f29eb18139135175d422e7f71b4cccf7e418e248854791f103742d4824da382fff325b75ee4472ce515fd2c8ec032f9229b95fea23062b4eee51f3d0" -t 1515429772 -n 1637456354 -v 1500000000000 
+
+algorithm: scrypt
+merkle hash: 0f133caa73aaa1fcb224853706c26ee4f69ea911d180f117ce2f070a5d322fe3
+pszTimestamp: BBC 08/JAN/2018 Apple investors urge action on smartphone addiction
+pubkey: 4f9014e837f29eb18139135175d422e7f71b4cccf7e418e248854791f103742d4824da382fff325b75ee4472ce515fd2c8ec032f9229b95fea23062b4eee51f3d0
+time: 1515429772
+bits: 0x1e0ffff0
+2372.0 hash/s, estimate: 503.0 hgenesis hash found!
+nonce: 1639120106
+genesis hash: 10683f85b8168db73db3cc0c6e0380620b2de54a70cc6b6fbb05376e6c494db6
